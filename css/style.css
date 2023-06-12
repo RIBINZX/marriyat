@@ -5209,6 +5209,14 @@ illustration 9
 
 /*# sourceMappingURL=style.css.map */
 
+/* @media (min-width: 992px) {
+  #float0{
+    display: none;
+  }
+}
+
+
+
 #float {
   position: fixed;
   bottom: 0;
@@ -5233,4 +5241,4 @@ illustration 9
   width: 100%;
   padding: 5px 0px;
 
-}
+} */
