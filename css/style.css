@@ -5208,3 +5208,29 @@ illustration 9
 }
 
 /*# sourceMappingURL=style.css.map */
+
+#float {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  z-index: 999;
+}
+#float li{
+  list-style-type: none;
+  text-align: center;
+  color: #fff;
+}
+#float1{
+  background-color: #26D367;
+  width: 100%;
+  padding: 5px 0px;
+}
+#float2{
+  background-color: #0e4924;
+  width: 100%;
+  padding: 5px 0px;
+
+}
